@@ -2,8 +2,7 @@
 
 ### Dashboard details
 
-* **Online URL**: https://share.streamlit.io/juliocandela1993/visualanalytics/main.py
-* **Github**: https://github.com/JulioCandela1993/VisualAnalytics
+* **Online URL**: https://share.streamlit.io/hungnm2008/tobacco-consumption-analysis/main.py
 * **Team members**:
   * Manh Hung Nguyen
   * Emir Nurmatbekov
